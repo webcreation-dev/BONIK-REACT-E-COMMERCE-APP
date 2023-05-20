@@ -69,6 +69,19 @@ button {
   box-shadow: rgb(43 52 69 / 10%) 0px 4px 16px;
 }
 
+.discount {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #e94560;
+  padding: 3px 10px;
+  color: #fff;
+  font-size: 12px;
+  border-radius: 5px;
+  color: #fff;
+  margin: 10px;
+}
+
 /*---------Categories----------*/
 .contentWidth {
   width: 77%;
@@ -132,6 +145,11 @@ button {
   border-radius: 8px;
   box-shadow: rgb(3 0 71 / 9%) 0 1px 3px;
   margin: 10px;
+}
+
+.test {
+  border: 3px solid red;
+  margin: 20px;
 }
 
 .product h3 {
@@ -221,4 +239,29 @@ button {
   color: #fff;
   background: #e94560;
   cursor: pointer;
+}
+
+/*----- heading -------*/
+.heading .heading-left i {
+  font-size: 30px;
+}
+.heading .heading-left h2 {
+  font-size: 25px;
+  margin: 5px;
+}
+.heading .heading-right i,
+.heading .heading-right {
+  text-align: right;
+  color: grey;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-gap: 30px;
+}
+.grid2 {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 10px;
 }
