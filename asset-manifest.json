@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/BONIK-REACT-E-COMMERCE-APP/static/css/main.b0950c4c.css",
-    "main.js": "/BONIK-REACT-E-COMMERCE-APP/static/js/main.f5dd8dca.js",
+    "main.js": "/BONIK-REACT-E-COMMERCE-APP/static/js/main.ca4c1681.js",
     "static/js/787.907f99c2.chunk.js": "/BONIK-REACT-E-COMMERCE-APP/static/js/787.907f99c2.chunk.js",
     "static/media/logo.svg": "/BONIK-REACT-E-COMMERCE-APP/static/media/logo.6172109437bb6cb48eb8dc1f65c9964c.svg",
     "static/media/slick.svg": "/BONIK-REACT-E-COMMERCE-APP/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -10,11 +10,11 @@
     "static/media/slick.woff": "/BONIK-REACT-E-COMMERCE-APP/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/BONIK-REACT-E-COMMERCE-APP/index.html",
     "main.b0950c4c.css.map": "/BONIK-REACT-E-COMMERCE-APP/static/css/main.b0950c4c.css.map",
-    "main.f5dd8dca.js.map": "/BONIK-REACT-E-COMMERCE-APP/static/js/main.f5dd8dca.js.map",
+    "main.ca4c1681.js.map": "/BONIK-REACT-E-COMMERCE-APP/static/js/main.ca4c1681.js.map",
     "787.907f99c2.chunk.js.map": "/BONIK-REACT-E-COMMERCE-APP/static/js/787.907f99c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b0950c4c.css",
-    "static/js/main.f5dd8dca.js"
+    "static/js/main.ca4c1681.js"
   ]
 }
